@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FlagQuiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="number_of_choices">Number Of Choices</string>
+    <string name="number_of_choices_description">Display 3, 6, 9 guess buttons</string>
+    <string name="races">Races</string>
+    <string name="races_description">Races to include in the quiz</string>
+    <string name="incorrect_answer">Incorrect!</string>
+    <string name="default_races_message">One race must be seleced. Setting people race as the default race</string>
+    <string name="default_race">elf</string>
+    <string name="reset_quiz">Reset Quiz</string>
+    <string name="results">Congrats! You have answered on %1$d questions of %2$d</string>
+    <string name="question">Question %1$d of %2$d</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="image_description">Image of the current character in the quiz.</string>
+    <string name="guess_character">Guess the character</string>
+</resources>
